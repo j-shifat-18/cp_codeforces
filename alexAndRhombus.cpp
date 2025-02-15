@@ -17,8 +17,6 @@ int main()
     sum=(sum*2)-(n*2-1);
     cout<<sum;
 
-
-
     return 0 ; 
 }
 
